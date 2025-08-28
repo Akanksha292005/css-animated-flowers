@@ -1,2 +1,2 @@
 # css-animated-flowers
-A CSS-powered blossoming flowers animation with a magical night effect
+Beautiful CSS animation of blossoming flowers under a magical night effect.
